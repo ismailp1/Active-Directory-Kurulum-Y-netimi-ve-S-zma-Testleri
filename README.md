@@ -1,1 +1,1 @@
-# Active-Directory-Kurulum-Yonetimi-ve-Sizma-Testleri
+# Active-Directory,Kurulum,Yonetimi ve Sizma-Testleri

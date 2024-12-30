@@ -1,0 +1,1 @@
+# Active-Directory-Kurulum-Y-netimi-ve-S-zma-Testleri
